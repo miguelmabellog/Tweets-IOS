@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>708058317217-qigepi7qgb3j4btehasufkruu37qtn3t.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.708058317217-qigepi7qgb3j4btehasufkruu37qtn3t</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAwG11S5HAUa4UY2iXiPh4mJyU8nZ-nEa8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>708058317217</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.testplatzi.tweets</string>
+	<key>PROJECT_ID</key>
+	<string>platzitweets-dbb70</string>
+	<key>STORAGE_BUCKET</key>
+	<string>platzitweets-dbb70.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:708058317217:ios:7cd8da0ffdb42fa7cd0be0</string>
+	<key>DATABASE_URL</key>
+	<string>https://platzitweets-dbb70.firebaseio.com</string>
+</dict>
+</plist>
